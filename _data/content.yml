@@ -5,14 +5,14 @@
 
 ### Started [ started ]
 started:
-  title: "Jеvgеni <br />Vоlоshin"
+  title: "IT <br />DocTor"
   typed:
     - "WEB"
     - "Web Designer"
     - "Programmer"
   text: "Tere. Minu nimi on Jevgeni ja ma olen suur IT valdkonna huviline. Olen juba üle 20 aasta töötanud IT valdkonnas ja aidanud inimestel lahendada erinevaid digitaalsete tehnoloogiatega seotud probleeme."
   button:
-    text: "Contact Me"
+    text: "Võta ühendust"
     link: "#section-contacts"
 
 ### About [ about ]
@@ -33,7 +33,7 @@ about:
     - label: "Aadress"
       value: "Ülenurme alevik"
 
-    - label: "Phone"
+    - label: "Tel."
       value: "+372 53 669 220"
 
     - label: "E-mail"
