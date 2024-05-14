@@ -23,8 +23,8 @@ main:
           url: "index-video/"
 
   # About
-  - title: "Minust"
-    url: "#section-minust"
+  - title: "About"
+    url: "#section-about"
     parent: 0
 
   # Resume
