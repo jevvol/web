@@ -7,7 +7,7 @@
 
 main:
   # Home
-  - title: "Home"
+  - title: "Pealeht"
     url: "/"
     parent: 1
     childs:
@@ -23,22 +23,22 @@ main:
           url: "index-video/"
 
   # About
-  - title: "About"
-    url: "#section-about"
+  - title: "Minust"
+    url: "#section-minust"
     parent: 0
 
   # Resume
-  - title: "Resume"
-    url: "#section-experience"
+  - title: "Teenused"
+    url: "#section-teenused"
     parent: 0
 
   # Portfolio
-  - title: "Portfolio"
+  - title: "Portfoolio"
     url: "#section-portfolio"
     parent: 0
 
   # Contacts
-  - title: "Contacts"
+  - title: "Kontakt"
     url: "#section-contacts"
     parent: 0
 
