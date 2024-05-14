@@ -26,9 +26,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+   # twitter:         <username>
+    #github:          <username>
+     email:           <it@jevvol.eu>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -62,7 +62,7 @@ author1:
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
-    # paypal:          <username>
+      paypal:          <jevvol>
     # download:        <url>
     # keybase          <username>
 
