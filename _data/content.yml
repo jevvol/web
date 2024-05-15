@@ -27,10 +27,10 @@ about:
   text: "<p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.</p><p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.</p>"
   list:
     - label: "Vanus"
-      value: "24"
+      value: "43"
 
-    - label: "Residence"
-      value: "USA"
+    - label: "Riik"
+      value: "Eesti"
 
     - label: "Freelance"
       value: "Available"
