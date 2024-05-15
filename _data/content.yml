@@ -314,22 +314,22 @@ contacts:
   subtitle: "Let's talk"
   name: "Joe Wilson"
   subname: "Consultant & Mentor"
-  signature: "Joe Wilson"
+  signature: "Jеvgеni Vоlоšin"
   list:
-    - label: "Age:"
-      value: "24"
+    - label: "Vanus:"
+      value: "43"
 
-    - label: "Residence:"
-      value: "USA"
+    - label: "Riik:"
+      value: "Eesti"
 
-    - label: "Freelance:"
-      value: "Available"
+    - label: "Keeled:"
+      value: "Eesti, vene"
 
-    - label: "Address:"
-      value: "San Francisco"
+    - label: "Aadress:"
+      value: "Ülenurme alevik"
 
-    - label: "Phone:"
-      value: "+1 256 254 84 56"
+    - label: "Tel.:"
+      value: "+372 53 669 220"
 
     - label: "E-mail:"
-      value: "alejandroa@gmail.com"
+      value: "it@jevvol.eu"
