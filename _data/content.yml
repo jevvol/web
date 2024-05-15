@@ -310,10 +310,10 @@ portfolio:
 
 ### Contact [ contacts ]
 contacts:
-  title: "Contact"
+  title: "Kontakt"
   subtitle: "Let's talk"
-  name: "Joe Wilson"
-  subname: "Consultant & Mentor"
+  name: "Jеvgеni"
+  subname: "Konsultant ja IT-huviline"
   signature: "Jеvgеni Vоlоšin"
   list:
     - label: "Vanus:"
