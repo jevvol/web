@@ -54,9 +54,9 @@ services:
       name: "Internet, võrk <br />ja turvalisus"
       text: "Juhtmega ja juhtmevaba internet töötavad hästi siis, kui koduvõrk on õigesti seadistatud. Õige seadme valimine, ruuteri seadistamine ja WiFi võrgu analüüs."
 
-    - icon: "fas fa-ad"
-      name: "Marketing <br />& Advertising"
-      text: "Advertising Management though is a complex process of employing various media to sell a product or service."
+    - icon: "fas fa-house"
+      name: "Tark kodu <br />& IOT"
+      text: "Tark kodu loomine ja häälestamine.Klientide vajaduste lahenduste valimine, seadistamine, koolitus ja konsultatsioonid. HomeAssistant, Homey, Apple Homekit, Aqara, Sonoff, Tuya, Shelly jm.."
 
     - icon: "fab fa-chrome"
       name: "Web  kodulehed,<br /> landing leheküljed"
