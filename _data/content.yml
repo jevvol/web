@@ -59,8 +59,8 @@ services:
       text: "Advertising Management though is a complex process of employing various media to sell a product or service."
 
     - icon: "fab fa-chrome"
-      name: "Web <br />Development"
-      text: "The web development process includes: web design, web content, client-side / server-side scripting and network security configuration."
+      name: "Web <br />"
+      text: "Veebilehtede loomine, veebimajutuse valik, domeenide ja e-posti seadistamine. Wordpress, Drupal, Laravel, Jekyll jm.. "
 
     - icon: "fas fa-headphones"
       name: "Music <br />Writing"
