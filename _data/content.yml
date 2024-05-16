@@ -54,7 +54,7 @@ services:
       name: "Internet, võrk <br />ja turvalisus"
       text: "Juhtmega ja juhtmevaba internet töötavad hästi siis, kui koduvõrk on õigesti seadistatud. Õige seadme valimine, ruuteri seadistamine ja WiFi võrgu analüüs."
 
-    - icon: "fas fa-house-user"
+    - icon: "fas fa-house"
       name: "Tark kodu <br />& IOT"
       text: "Tark kodu loomine ja häälestamine.Klientide vajaduste lahenduste valimine, seadistamine, koolitus ja konsultatsioonid. HomeAssistant, Homey, Apple Homekit, Aqara, Sonoff, Tuya, Shelly jm.."
 
