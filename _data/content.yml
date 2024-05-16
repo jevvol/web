@@ -50,7 +50,7 @@ services:
   title: "Teenused"
   subtitle: "Mida mina teen"
   items:
-    - icon: "fa-solid fa-network-wired"
+    - icon: "fas fa-network-wired"
       name: "Internet, võrk <br />ja turvalisus"
       text: "Juhtmega ja juhtmevaba internet töötavad hästi siis, kui koduvõrk on õigesti seadistatud. Õige seadme valimine, ruuteri seadistamine ja WiFi võrgu analüüs."
 
