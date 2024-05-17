@@ -71,8 +71,8 @@ services:
       text: "Come Up With a Game Idea. An idea is the first thing that comes to mind when a game is being described before creating."
 
     - icon: "fas fa-video"
-      name: "Photography <br />& Video"
-      text: "Sessions. If you are a photographer that spends most of the time in a portrait studio, you can charge for your session."
+      name: "Videomontaaž <br />ja filmimine"
+      text: "Kasutan oma töös FinalCut, CupCut, Adobe After Effects."
 
 ### Pricing [ pricing ]
 pricing:
