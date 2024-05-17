@@ -66,7 +66,7 @@ services:
       name: "Arvutite <br />remont"
       text: " Diagnostika, tolmust puhastamine, viirustest puhastamine, vigaste komponentide vahetamine, tarkvara paigaldamine"
 
-    - icon: "fas fa-gamepad"
+    - icon: "fas fa-hammer"
       name: "Game <br />Development"
       text: "Come Up With a Game Idea. An idea is the first thing that comes to mind when a game is being described before creating."
 
