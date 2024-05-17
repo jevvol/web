@@ -63,8 +63,8 @@ services:
       text: "Veebilehtede loomine, veebimajutuse valik, domeenide ja e-posti seadistamine. Wordpress, Drupal, Laravel, Jekyll jm.. "
 
     - icon: "fas fa-headphones"
-      name: "Music <br />Writing"
-      text: "Sheet music is the basic form in which Western classical music is notated so that it can be learned and performed by solo singers."
+      name: "Arvutite <br />remont"
+      text: " Diagnostika, tolmust puhastamine, viirustest puhastamine, vigaste komponentide vahetamine, tarkvara paigaldamine"
 
     - icon: "fas fa-gamepad"
       name: "Game <br />Development"
