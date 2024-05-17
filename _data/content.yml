@@ -62,7 +62,7 @@ services:
       name: "Web  kodulehed,<br /> landing leheküljed"
       text: "Veebilehtede loomine, veebimajutuse valik, domeenide ja e-posti seadistamine. Wordpress, Drupal, Laravel, Jekyll jm.. "
 
-    - icon: "fas fa-headphones"
+    - icon: "fas fa-hammer"
       name: "Arvutite <br />remont"
       text: " Diagnostika, tolmust puhastamine, viirustest puhastamine, vigaste komponentide vahetamine, tarkvara paigaldamine"
 
